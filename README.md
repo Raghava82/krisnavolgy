@@ -1,2 +1,2 @@
-# krisnavolgy
-Template, design
+# Csoport foglaló rendszer
+Group handler program
